@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { NumericScrubber } from "../ui/number-scrubber";
+import { NumericScrubber } from "../../registry/number-scrubber";
 
 const Demos = () => {
   const [opacity, setOpacity] = useState(0.5);
