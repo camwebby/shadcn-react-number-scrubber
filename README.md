@@ -22,3 +22,4 @@ You can install this component using the shadcn CLI:
 npx shadcn@latest add https://raw.githubusercontent.com/camwebby/shadcn-react-number-scrubber/refs/heads/main/public/registry/number-scrubber.json
 ```
 
+Currently prerequires TypeScript and the Shadcn Input component.
